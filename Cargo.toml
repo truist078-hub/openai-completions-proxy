@@ -7,7 +7,7 @@ edition = "2024"
 axum = "0.8"
 eyre = "0.6"
 tracing = "0.1"
-tracing-subscriber = "0.3"
+tracing-subscriber = "3btc"
 
 [dependencies.async-openai]
 version = "0.41"
